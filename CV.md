@@ -1,7 +1,7 @@
 ##  **Jahnavi Kodali**    
 ##### Benton, AR 72019 | jkodali@uark.edu | 501-909-0009
 ***
-#### **Education**  
+### **Education**  
  **University of Arkansas, Fayetteville, Arkansas**  
  
  * Bachelor of Science in Biology  
@@ -13,7 +13,7 @@
  * "Nature and Nurture": Twin Research and Human Genetics (Summer 2019)  
  * Learned and applied statistical research methods in human genetics such as GWAS with data collected from the Netherlands Twin Register and the Alzheimer Center Amsterdam  
  
-#### **Research Experience**  
+### **Research Experience**  
 **DuRant Lab Undergraduate Research Assistant** _Jan 2020 - Present_ 
   
   * Contributing to epigenetics and physiology in the lab of Dr. Sarah DuRant. Techniques include collection of blood samples from canaries, **DNA extraction**, **ELISA**, **PCR**, and bird care  
@@ -23,30 +23,30 @@
 
   * Contributed to neuroscience research in the lab of Dr. Connie Lamm. Collected EEG data during various task to study self-regulation, decision-making, and cognitive control  
   
-#### **Analytic Skills** 
+### **Analytic Skills** 
 
   * Basic Knowledge of R and Python (RStudio, Google Colab)  
   * Proficient in Microsoft Office, including Excel
   
-#### **Languages**
+### **Languages**
 
   * French: Elementary Level _Speaking, Writing, and Reading_  
   * Arabic: Elementary Level _Speaking, Writing, and Reading_  
   * Telugu: Native Fluency _Speaking_  
 
-#### **Independent Study**  
+### **Independent Study**  
  **International Studies** _Summer 2020_  
  
  * Conducted research on India's response to the COVID-19 pandemic based on global health policies and domestic public health issues  
  
-#### **Awards/Recognitions**  
+### **Awards/Recognitions**  
 
  * Honors College Signature Scholar _2021_  
  * Dean's List/Chancellors's List _2018-2020_  
  * Governor's Distinguished Scholarship _2017-Present_  
  * Chancellor's Scholarship _2017-Present_
  
-#### **Membership**  
+### **Membership**  
  **UARK Museum Council** - Diversity, Equity, and Inclusion Committee _2020-Present_  
  
  * Collaborated with fellow members of DEI Committee to create and implement the University of Arkansas Museum's mission on promoting diversity. Established relations with different departments to broaded the museum's reach  
@@ -63,7 +63,7 @@
  
  * Member of a small community consisting of both international and domestic students, seeking to bridge experiences around the world to form a better understanding of international issues and communication  
  
-#### **References**  
+### **References**  
  **Dr. Sarah E. DuRant**: Assistant Professor,  
  Department of Biological Sciences, University of Arkansas,  
  601 Science and Engineering, Fayetteville, AR 72701  
