@@ -1,7 +1,3 @@
----
-output:
-  html_document: default
----
 ##  **Jahnavi Kodali**    
 ##### Benton, AR 72019 | jkodali@uark.edu | 501-909-0009
 ***
