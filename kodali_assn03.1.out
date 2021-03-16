@@ -1,0 +1,24 @@
+
+
+Building a new DB, current time: 03/15/2021 21:18:44
+New DB name:   /home/jkodali/nt/nad4L.fasta
+New DB title:  /home/jkodali/nt/nad4L.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000403881 seconds.
+PBS Job Statistics:
+PBS Job ID: 5040024.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: debug16core
+Program Return Code: 0
+Head Node:
+compute1514
+PBS Job Statistics:
+PBS Job ID: 5040024.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: debug16core
+Program Return Code: 0
+Head Node: compute1514
