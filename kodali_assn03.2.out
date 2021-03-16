@@ -1,0 +1,27 @@
+
+
+Building a new DB, current time: 03/15/2021 22:33:56
+New DB name:   /scrfs/storage/jkodali/home/nt.fasta
+New DB title:  nt.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+FASTA-Reader: Ignoring invalid residues at position(s): On line 39: 1489, 1491, 1495-1496, 1499, 1503-1504
+FASTA-Reader: Ignoring invalid residues at position(s): On line 46: 1186, 1188, 1192-1193, 1196, 1200
+FASTA-Reader: Ignoring invalid residues at position(s): On line 47: 574, 576, 580-581, 584, 586-589
+Adding sequences from FASTA; added 57 sequences in 0.049552 seconds.
+PBS Job Statistics:
+PBS Job ID: 5040027.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:10:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: debug16core
+Program Return Code: 0
+Head Node:
+compute1514
+PBS Job Statistics:
+PBS Job ID: 5040027.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:10:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: debug16core
+Program Return Code: 0
+Head Node: compute1514
