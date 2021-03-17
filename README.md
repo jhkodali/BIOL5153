@@ -4,4 +4,5 @@
 
 ### assn04
 * Screenshot of pwd and python script
+* Added Python Scripts: PBS and SLURM
 ![Screenshot](kodali_assn04_screenshot.png)
